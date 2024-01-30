@@ -1,3 +1,3 @@
 # jam-the-
-this is for fun
-author is hareesh
+this is for fun.
+Author ka naam hey Hareesh
